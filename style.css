@@ -1,0 +1,17 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: url('img/bo_play.png');
+}
+.container {
+  background: white;
+  padding: 40px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  position: relative;
+  box-shadow: 0px 0px 10px rgba(0,0,0,1);
+  width: 700px;
+}
+svg {
+
+}
